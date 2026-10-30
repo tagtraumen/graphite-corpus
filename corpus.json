@@ -1,6 +1,151 @@
 {
   "documents": [
     {
+      "name": "01 Title",
+      "times": [
+        0.0,
+        5.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "02 Parametric Design",
+      "times": [
+        0.0,
+        5.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "03 UI",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "04 UI",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "06 Desktop",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "06 Desktop Architecture",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "07 Loops",
+      "times": [
+        0.0,
+        1.5,
+        2.0,
+        2.5,
+        3.0,
+        1.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "08 Loops Fractal",
+      "times": [
+        0.1,
+        0.8,
+        1.2
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "09 Clipping Masks",
+      "times": [
+        0.0,
+        0.3,
+        1.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "10 Fosdem",
+      "times": [
+        0.0,
+        1.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "11 Pong",
+      "times": [
+        0.0,
+        1.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "14 Stars",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
       "name": "changing-seasons",
       "times": [
         0.0
