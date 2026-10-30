@@ -1,3 +1,92 @@
 {
-  "documents": []
+  "documents": [
+    {
+      "name": "changing-seasons",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "isometric-fountain",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "marbled-mandelbrot",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "painted-dreams",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "parametric-dunescape",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "procedural-string-lights",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "red-dress",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "valley-of-spires",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    }
+  ]
 }
